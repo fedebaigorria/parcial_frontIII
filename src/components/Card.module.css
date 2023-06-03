@@ -1,0 +1,16 @@
+.box {
+    border: 1px solid #000;
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto; /* Centra horizontalmente */
+    background-color: aquamarine;
+  }
+  
+.titulo {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+  
+.cuerpo {
+    font-size: 16px;
+}
